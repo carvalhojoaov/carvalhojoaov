@@ -8,6 +8,6 @@ Eu sou o João Vitor,sou um Programador Front End,atualmente estou aprendendo e 
 <br>
 <br>
 <p>Me siga:<p/>
-   <a href="https://www.instagram.com/carvalho_joaov/">
+   <a href="https://www.instagram.com/carvalho_joaov/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
