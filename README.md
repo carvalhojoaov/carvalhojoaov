@@ -1,13 +1,8 @@
-### Hi there :smile:
+### Ola,Eu sou o João Vitor :smile:
 
-Eu sou o João Vitor,sou um Programador Front End,atualmente estou aprendendo e criando projetos com:
-<br>
-<br>
-   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-<br>
-<br>
-<p>Me siga:<p/>
-   <a href="https://www.instagram.com/carvalho_joaov/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carvalho_joaov/)
+
+![Joao Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalhojoaov&show_icons=true&theme=dracula)
+
+## Tecnologias que eu uso
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhojoaov)](https://github.com/anuraghazra/github-readme-stats)
